@@ -8,15 +8,9 @@
     A resource development studio for the popular GTA V modification FiveM
   </h3>
   
-  <a href="https://x.com/norlandprod">
+  <a href="https://norland.productions/discord">
     <img
-      src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fnorlandprod&style=social&label=%20"
-    />
-  </a>
-  
-  <a href="https://bit.ly/norland-discord">
-    <img
-      src="https://img.shields.io/discord/1265731842896826429?style=social&logo=discord&label=%20"
+      src="https://img.shields.io/discord/1337352930088583220?style=social&logo=discord&label=%20"
     />
   </a>
 </div>
